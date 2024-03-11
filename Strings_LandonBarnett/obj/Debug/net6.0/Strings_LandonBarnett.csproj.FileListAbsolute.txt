@@ -1,0 +1,14 @@
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\bin\Debug\net6.0\Strings_LandonBarnett.exe
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\bin\Debug\net6.0\Strings_LandonBarnett.deps.json
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\bin\Debug\net6.0\Strings_LandonBarnett.runtimeconfig.json
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\bin\Debug\net6.0\Strings_LandonBarnett.dll
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\bin\Debug\net6.0\Strings_LandonBarnett.pdb
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\obj\Debug\net6.0\Strings_LandonBarnett.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\obj\Debug\net6.0\Strings_LandonBarnett.AssemblyInfoInputs.cache
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\obj\Debug\net6.0\Strings_LandonBarnett.AssemblyInfo.cs
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\obj\Debug\net6.0\Strings_LandonBarnett.csproj.CoreCompileInputs.cache
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\obj\Debug\net6.0\Strings_LandonBarnett.dll
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\obj\Debug\net6.0\refint\Strings_LandonBarnett.dll
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\obj\Debug\net6.0\Strings_LandonBarnett.pdb
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\obj\Debug\net6.0\Strings_LandonBarnett.genruntimeconfig.cache
+C:\Users\LandonBarnett\source\repos\Strings_LandonBarnett\Strings_LandonBarnett\obj\Debug\net6.0\ref\Strings_LandonBarnett.dll
